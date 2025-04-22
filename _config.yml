@@ -1,0 +1,16 @@
+markdown: kramdown
+
+sass:
+  style: compressed
+  sass_dir: _sass
+
+footer: yes
+footer_url: esborowski.github.io
+footer_text: Eric Borowski
+
+nav:
+  - name: "About"
+  - name: "Research"
+  - name: "Outreach"
+  - name: "CV"
+  - name: "Contact"
